@@ -5,7 +5,6 @@ Platonic objects inside of a cube with relocatable lightsources.
 
 # Gallery
 
-![raytrace1](https://github.com/Stellaway/Raytracing/assets/40556813/2869d631-5b75-4851-a2f5-f02a77041b9e)
+![raytrace1](https://github.com/Stellaway/Raytracing/assets/40556813/fecd6ed3-ee0e-4810-b909-c50c54ce9716)
 
-![raytrace2](https://github.com/Stellaway/Raytracing/assets/40556813/34125df5-a53e-441f-adf4-452727826438)
-
+![raytrace2](https://github.com/Stellaway/Raytracing/assets/40556813/82ff45f8-e16e-41b7-aeca-3eae273f22d5)
